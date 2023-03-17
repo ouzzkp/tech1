@@ -1,1 +1,1 @@
-# The term project of COMP206 Database Management Term Project
+# The term project of COMP206 Database Management
