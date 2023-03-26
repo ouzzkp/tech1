@@ -5,8 +5,6 @@ import java.awt.*;
 public class Personel {
 
 
-
-
     private int id;
     private int birt_date;
     private String name;
@@ -19,9 +17,10 @@ public class Personel {
     private Image photo;
     private String notes;
 
-    public Personel () {
+    public Personel() {
 
     }
+
     public Personel(int id, int birt_date, String name, String surname, int salary, String hire_date, String email, int phone, String address, Image photo, String notes) {
         this.id = id;
         this.birt_date = birt_date;
@@ -35,6 +34,7 @@ public class Personel {
         this.photo = photo;
         this.notes = notes;
     }
+
     public int getId() {
         return id;
     }
