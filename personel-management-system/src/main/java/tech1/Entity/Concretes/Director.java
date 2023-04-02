@@ -1,8 +1,15 @@
 package tech1.Entity.Concretes;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
 import javax.persistence.*;
+@Data
 @Entity
 @Table(name="directors")
+@AllArgsConstructor
+@NoArgsConstructor
 public class Director {
     @Id
     @Column(name="id")

@@ -3,15 +3,15 @@ package tech1.Entity.Concretes;
 import javax.persistence.*;
 import java.util.List;
 
-//import lombok.AllArgsConstructor;
-//import lombok.Data;
-//import lombok.NoArgsConstructor;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
-//@Data
+@Data
 @Entity
 @Table(name = "regions")
-//@AllArgsConstructor
-//@NoArgsConstructor
+@AllArgsConstructor
+@NoArgsConstructor
 
 public class Region {
 
