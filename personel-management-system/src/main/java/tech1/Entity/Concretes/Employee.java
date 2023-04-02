@@ -47,7 +47,7 @@ public class Employee {
     @Column(name="address")
     private String address;
 
-    @Column(name="birth_date")  // cameCase PascalCase sneak_case kebap-case
+    @Column(name="birth_date")
     private Date birthDate;
 
     @Column(name="hire_date")

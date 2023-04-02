@@ -1,6 +1,7 @@
 C:\tech1\personel-management-system\src\main\java\tech1\Business\abstracts\EmployeeService.java
 C:\tech1\personel-management-system\src\main\java\tech1\Entity\Concretes\Manager.java
 C:\tech1\personel-management-system\src\main\java\tech1\Entity\Concretes\Region.java
+C:\tech1\personel-management-system\src\main\java\tech1\Entity\Dtos\EmployeeWithNames.java
 C:\tech1\personel-management-system\src\main\java\tech1\Core\Utilities\Results\SuccessResult.java
 C:\tech1\personel-management-system\src\main\java\tech1\Entity\Concretes\Director.java
 C:\tech1\personel-management-system\src\main\java\tech1\Entity\Concretes\Department.java
