@@ -1,10 +1,10 @@
-package Business.concretes;
+package tech1.Business.concretes;
 
-import Business.abstracts.EmployeeService;
+import tech1.Business.abstracts.EmployeeService;
 
 import Core.Utilities.Results.DataResult;
 import Core.Utilities.Results.Result;
-import Entity.Concretes.Employee;
+import tech1.Entity.Concretes.Employee;
 
 import java.util.List;
 

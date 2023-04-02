@@ -1,4 +1,4 @@
-package Entity.Concretes;
+package tech1.Entity.Concretes;
 
 import javax.persistence.*;
 @Entity

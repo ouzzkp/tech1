@@ -1,8 +1,8 @@
-package Business.abstracts;
+package tech1.Business.abstracts;
 
 import Core.Utilities.Results.DataResult;
 import Core.Utilities.Results.Result;
-import Entity.Concretes.Employee;
+import tech1.Entity.Concretes.Employee;
 
 import java.util.List;
 
